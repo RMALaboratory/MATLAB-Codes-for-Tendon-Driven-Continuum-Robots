@@ -1,2 +1,2 @@
 # MATLAB-Codes-for-Tendon-Driven-Continuum-Robots
-All MATLAB code will de uploaded soon.
+All MATLAB codes will be uploaded soon.
